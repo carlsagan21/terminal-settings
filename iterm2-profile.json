@@ -378,8 +378,9 @@
     }
   },
   "Window Type" : 0,
+  "Blur Radius" : 7.2517092322335017,
   "Background Image Location" : "",
-  "Blur" : false,
+  "Blur" : true,
   "Badge Color" : {
     "Red Component" : 1,
     "Color Space" : "sRGB",
@@ -387,7 +388,7 @@
     "Alpha Component" : 0.5,
     "Green Component" : 0.1491314172744751
   },
-  "Scrollback Lines" : 1000,
+  "Scrollback Lines" : 0,
   "Send Code When Idle" : false,
   "Close Sessions On End" : true,
   "Terminal Type" : "xterm-256color",
@@ -414,7 +415,7 @@
     "Blue Component" : 0.58823529411764708,
     "Green Component" : 0.58039215686274515
   },
-  "Transparency" : 0.062174809644670051,
+  "Transparency" : 0.082786722715736047,
   "Guid" : "B213FF15-039F-481A-9FFE-162961D35AEA",
   "Ansi 2 Color" : {
     "Red Component" : 0.52156862745098043,
